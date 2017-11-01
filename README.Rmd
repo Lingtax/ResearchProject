@@ -1,6 +1,3 @@
----
-output: github_document
----
 # Research Project
 
 The goal of ResearchProject is to scaffold reproducible research projects
