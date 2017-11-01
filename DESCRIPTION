@@ -1,0 +1,16 @@
+Package: ResearchProject
+Type: Package
+Title: Template for Misinformation Research Projects
+Version: 0.1.0
+Authors@R: c(
+    person("Mathew", "Ling", , email = "m.ling@deakin.edu.au", role = c("aut", "cre"))
+Description: Designed to be forked and renamed for each project, this will be a template for
+    research projects in the misinformation lab. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
+URL: https://github.com/Lingtax/ResearchProject
+BugReports: https://github.com/Lingtax/ResearchProject/issues
