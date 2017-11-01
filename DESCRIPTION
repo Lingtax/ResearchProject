@@ -1,11 +1,10 @@
 Package: ResearchProject
 Type: Package
-Title: Template for Misinformation Research Projects
+Title: Template for Reproducible Research Projects with git integration
 Version: 0.1.0
 Authors@R: c(
     person("Mathew", "Ling", , email = "m.ling@deakin.edu.au", role = c("aut", "cre"))
-Description: Designed to be forked and renamed for each project, this will be a template for
-    research projects in the misinformation lab. 
+Description: Functions to initialise and configure a research project with open code but closed data. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
