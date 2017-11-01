@@ -9,6 +9,9 @@ Description: Designed to be forked and renamed for each project, this will be a 
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: git2r,
+    devtools,
+    usethis
 Suggests: knitr,
     rmarkdown
 VignetteBuilder: knitr
